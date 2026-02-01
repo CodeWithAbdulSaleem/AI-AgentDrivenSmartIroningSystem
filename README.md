@@ -3,7 +3,7 @@
 > 🏆 **AI-Ignite Hackathon Project**
 > *Built in 36 Hours | The First Agentic Hackathon*
 
-[![Streamlit App](https://ai-assisted-smart-ironing-system.streamlit.app/)]
+APP Link : https://ai-assisted-smart-ironing-system.streamlit.app/
 
 The **Smart Ironing System V4** is a next-generation industrial IoT solution designed to optimize fabric ironing processes through AI-driven fabric detection, real-time telemetry, and automated control.
 
